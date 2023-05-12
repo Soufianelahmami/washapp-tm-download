@@ -41,11 +41,11 @@
   "my_data":[
   {"desc1":"description1 ser ",
    "photo1":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc2":"WashApp TM is a cutting-edge mobile application designed to streamline the laundry process. Developed by a team of dedicated professionals, WashApp TM offers a user-friendly interface that enables individuals to schedule, track, and manage their laundry requirements with ease. ","photo2":"https://iili.io/HU7CoIn.png"},
+  {"desc3":"One of the primary features of WashApp TM is its ability to schedule laundry pick-ups and deliveries at the user's convenience. Users can select the desired date, time, and location for pick-up, ensuring a hassle-free experience.","photo3":"https://iili.io/HU7C31R.jpg"},
+  {"desc4":"WashApp TM allows users to specify their laundry preferences, such as temperature settings, detergent choices, fabric softeners, and special instructions. This level of customization ensures that each individual's laundry is handled according to their specific requirements.","photo4":"https://iili.io/HU7C2qv.jpg"},
+  {"desc5":"Once the laundry is picked up, WashApp TM provides real-time tracking capabilities, allowing users to monitor the progress of their laundry. This feature eliminates uncertainty and enables users to plan their day accordingly.","photo5":"https://iili.io/HU7CFgp.webp"},
+  {"descd":"WashApp TM offers secure and convenient payment options within the application, eliminating the need for cash transactions. Users can link their preferred payment method, making the process seamless and efficient.","photod":"https://iili.io/HU7CfdN.webp"}
    ]
  
 }
